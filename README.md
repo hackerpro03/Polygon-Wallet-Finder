@@ -1,6 +1,7 @@
 # Polygon Finder
 
  # tool for brute forcing matic crypto wallets
+ # 24h for find first wallet
 
 ## **Disclaimer**
 
