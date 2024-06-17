@@ -86,12 +86,6 @@ Navigate to `Polygon-Wallet-Finder\hasTransaction\` folder. There you can see al
 
 Feel free to open an issue if you find a problem, or a pull request if you've solved an issue. And also any help in testing, development, documentation and other tasks is highly appreciated and useful to the project.
 
-
-## License
-This project is under GPL-3.0 license. 
-```
-https://github.com/niyankhadka/crypto-wallet-bruteforce/blob/main/LICENSE
-```
 ## Thank Note
 
 Thanks to **https://github.com/meherett/python-hdwallet** for the awesome python library you have created.
