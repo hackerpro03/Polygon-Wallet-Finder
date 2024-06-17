@@ -1,6 +1,6 @@
 # Polygon Finder
 
-`crypto-wallet-bruteforce` is a tool for brute forcing crypto wallets
+ # tool for brute forcing matic crypto wallets
 
 ## **Disclaimer**
 
